@@ -18,8 +18,8 @@ function HomePage(prop) {
 
                         <img src="/gabineteMuestra.png" alt="gabinete" className=" w-72" />
 
-                        <div className="space-x-2 text-center py-2 lg:py-0">
-                            <span className="text-3xl">Gabinete</span>
+                        <div className="space-x-2 text-center py-2 flex flex-col lg:py-0">
+                            <span className="text-3xl font-semibold">Gabinete</span>
                             <span className="font-bold text-5xl">Sentey X10 RGB</span>
                         </div>
 
