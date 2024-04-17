@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "title":"AZZA Prime 360",
+        "image":"/gabinete.png",
+        "price":"$89.000",
+        "description":"Gabinete gamer basico. Incluye 3 ventiladores ideal para empezar en el hambito gamer"
+    },
+    {
+        "id":2,
+        "title":"OverTech OK-910",
+        "image":"/gabinete2.png",
+        "price":"$68.000",
+        "description":"Gabinete generico. Ideal para oficinas y la comodidad de tu hogar. equipamiento basico"
+    },
+    {
+        "id":3,
+        "title":"Sentey X10 RGB",
+        "image":"/gabinete3.png",
+        "price":"$78.000",
+        "description":"Gabinete moderno estilo gamer. Equipado con 1 ventilador y luces RGB para darle un diseño unico"
+    },
+    {
+        "id":4,
+        "title":"Sentey P20",
+        "image":"/gabinete4.png",
+        "price":"$105.000",
+        "description":"Gabinete Gamer de ultima generación con 5 ventiladores. Con iluminación RGB para mayor placer visual"
+    },
+    {
+        "id":5,
+        "title":"Corsair 7000D Airflow",
+        "image":"/gabinete5.png",
+        "price":"$70.000",
+        "description":"Gabinete generico para oficinas y/o hogares. Incluye 4 ventiladores"
+    },
+    {
+        "id":6,
+        "title":"GAMEMAX Nova N6",
+        "image":"/gabinete6.png",
+        "price":"$155.000",
+        "description":"Gabinete generico para oficinas y/o hogares. Incluye 4 ventiladores"
+    },
+    {
+        "id":7,
+        "title":"THERMALTAKE DIVIDER 370 TG",
+        "image":"/gabinete7.png",
+        "price":"$342.000",
+        "description":"Gabinete generico para oficinas y/o hogares. Incluye 4 ventiladores"
+    },
+    {
+        "id":8,
+        "title":"Cooler Master C700M",
+        "image":"/gabinete8.png",
+        "price":"$856.000",
+        "description":"Gabinete generico para oficinas y/o hogares. Incluye 4 ventiladores"
+    }
+
+    
+]
