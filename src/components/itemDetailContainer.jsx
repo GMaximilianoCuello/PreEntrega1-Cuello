@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { pedirItemPorId } from "../pedirDatos";
-import Item from "./item";
+import Item from "./itemDetail";
 import { useParams } from "react-router-dom";
 
 function ItemDetailContainer( {} ) {

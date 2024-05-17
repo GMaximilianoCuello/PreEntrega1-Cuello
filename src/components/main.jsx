@@ -3,6 +3,7 @@ import HomePage from "../page/home"
 import ProductosPage from "../page/productos"
 import ContactoPage from "../page/contacto"
 import ItemDetailContainer from "./itemDetailContainer"
+import Carro from "../page/cart"
 
 
 
@@ -19,6 +20,7 @@ function Main() {
 
                 <Route path="/contact"  element={ <ContactoPage title="Contactanos!"/> } />
 
+                <Route path="/cart" element={<Carro/>}/>
             </Routes>
             
         </main>
